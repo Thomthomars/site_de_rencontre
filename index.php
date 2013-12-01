@@ -20,7 +20,7 @@ if (!isset($_SESSION['id'])){
 	<div class="navbar-inner">
 	<a class="brand" href="?action=maison">  Home</a>
 	<ul class="nav">
-		<li class=""><a href="?action=inscription">inscription</a></li>
+		<li class=""><a href="?action=inscription">Inscription</a></li>
 		<li class=""><a href="?action=profil">Profil</a></li>
 		<li class=""><a href="?action=recherche">recherche</a></li>
 		<li class=""><a href="?action=conversation">conversation</a></li>
