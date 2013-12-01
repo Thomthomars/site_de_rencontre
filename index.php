@@ -8,7 +8,7 @@ if (!isset($_SESSION['id'])){
 <html>
 <head>
 	<meta charset="utf-8">
-	<title>Lesbelles</title>
+	<title>Lesbels</title>
 	<link rel="stylesheet" type="text/css" href="ressource/css/index.css">
 	<link rel="stylesheet" type="text/css" href="ressource/css/bootstrap.css">
 	<link rel="stylesheet" type="text/css" href="ressource/css/bootstrap-responsive.css">
