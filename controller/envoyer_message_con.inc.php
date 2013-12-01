@@ -1,0 +1,9 @@
+<?php
+require_once('config/connex.inc.php');
+connex('1mydb','config/myparam');
+require_once('model/back_office.php');
+extract($_POST);
+extract($_GET);
+print_r($_GET);
+rep_conversation($message,$id,$envoyer);
+?>

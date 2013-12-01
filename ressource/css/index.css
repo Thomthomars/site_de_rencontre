@@ -1,0 +1,6 @@
+div#container{
+		margin-top : 50px;
+}
+#titre, #localisation{
+	color: blue;
+}

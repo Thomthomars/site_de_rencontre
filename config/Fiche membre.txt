@@ -1,0 +1,54 @@
+
+I) Photos
+  - Uniquement de la personne
+  - 3 minimum
+  - Je sais pas combien maximum
+
+II) Description
+   1) "Sur moi"
+ Champ libre a remplir par l'utilisateur.
+  - Pays de résidence, Ville, Code postal
+  - Age
+  - Nationnalité
+  - Niveau d'études
+  - Hobbies (case a remplir)
+  - Profession (case a remplir)
+ 
+   2) "Sur toi"
+A remplir (ses attentes)
+
+III) 1) Physique
+	-Taille
+	-Poid
+	-Cheveux : couleur, coupe actuelle, coupe envisagée
+	- Yeux : couleur
+	- Origines
+	- Particularitées: Tatouage, Piercing, Cicatrices, Lunettes, Taches de rousseur, hyperlaxe.
+
+     2) Style ( à cocher)
+Jupe/Robe/Pantalons/Shorts/Baggy/Slim
+Casquette/ Bonnet/ Chapeau
+Bottes/Talons/ Baskets/ Balerines/ New Rock/ Creeps/ Tongs/ Sandales/ Plate forme shoes/ Santiags
+
+	Général (à cocher 4max)
+Gothique/Punk/Dégénérée/Bobo/Hipster/BCBG/A l'arrache/Décontracté/Paillettes/Trop large/Trop petit/Rock/ Electro/Androgyne/Rockab/Street/Skateuse/Surfeuse/Sportive/Excentrique/Branchée/Artiste/Bohème/Buisness/Fashion/Sexy/Classique
+
+    3) Personnalité (à cocher 3 max)
+Aventureux/Parresseuse/ Sensible/ Romantique/ Blasée/ Inquiète/ Courageuse/ Egoiste/ Solitaire/ Sociable/ Rigolote/ Femme enfant/ Timide/ Provocatrice/ Rêveuse/ Généreuse/ Fière/ Dépensière/ Soumise/ Dominatrice/ Energique/ Exigeant/ Calme/ Excessive/ Attentionnée/ Aimante/ Distante/ Inaccessible/ Tenace/ Ardante/ Larguée/ Passionée/ Rigide/ Depressive/ Folle/ Argneuse/ Chiante/ Raleuse/ Droguée/ Exubérante/ Inaperçue
+
+
+IV) Vie
+ 
+ - Tabac : Ne supporte pas la fumée/ Supporte la fumée/ Un petit peu/ Exceptionellement/ Souvent/ J'essai d'arreter/ J'ai arreté
+  
+ -Alcool : Jamais/ De temps en temps/ Exceptionellement/ Souvent/ Evidemment
+
+ - Je vis : Seul/Chez mes parents/ En colloc/ Avec mon animal/ Avec mon (mes) enfant(s)
+
+- Je sors : Beaucoup/ Juste le weekend/ Qu'importe le soir/ De temps en temps/ Rarement/ Patate de canapé
+
+- Sport : A remplir
+- Musique : A remplir
+- Cinéma : ""
+- Livres: ""
+- Magazines/journaux: ""
